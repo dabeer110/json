@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "id": 23,
+            "name": "toyota",
+            "description": "toyota supra is the fastest car",
+            "stock": true,
+            "price": 43000000
+        },
+        {
+            "id": null,
+            "name": "Rolls Royce",
+            "description": "Rolls Royce is the fastest car",
+            "stock": false,
+            "price": 55000000
+        }
+    ]
+}
